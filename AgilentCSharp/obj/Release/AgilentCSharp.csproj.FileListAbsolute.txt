@@ -1,0 +1,12 @@
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\bin\Release\AgilentCSharp.exe.config
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\obj\Release\Interop.AgilentPNA835x.dll
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\obj\Release\AgilentCSharp.csproj.ResolveComReference.cache
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\bin\Release\AgilentCSharp.exe
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\bin\Release\AgilentCSharp.pdb
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\obj\Release\AgilentCSharp.Form1.resources
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\obj\Release\AgilentCSharp.Properties.Resources.resources
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\obj\Release\AgilentCSharp.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\obj\Release\AgilentCSharp.exe
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\obj\Release\AgilentCSharp.pdb
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\obj\Release\AgilentCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Visual Studio 2012\Projects\AgilentCSharp\AgilentCSharp\obj\Release\AgilentCSharp.ConnectForm.resources
